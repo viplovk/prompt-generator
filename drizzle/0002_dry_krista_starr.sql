@@ -1,0 +1,1 @@
+ALTER TABLE `workflows` MODIFY COLUMN `ratingTenths` int NOT NULL DEFAULT 0;

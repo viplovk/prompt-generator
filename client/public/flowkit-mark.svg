@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="FlowKit AI mark">
+  <rect x="6" y="6" width="116" height="116" rx="30" fill="#101716"/>
+  <path d="M38 39 91 64 38 89" fill="none" stroke="#D6FF74" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="38" cy="39" r="7" fill="#D6FF74"/>
+  <circle cx="38" cy="89" r="7" fill="#D6FF74"/>
+  <circle cx="92" cy="64" r="9" fill="#D6FF74"/>
+</svg>

@@ -1,0 +1,1 @@
+{"routes":[{"path":"/","title":"FlowKit AI — Home"},{"path":"/workflows","title":"Workflow Marketplace"},{"path":"/workflow/:slug","title":"Workflow Details"},{"path":"/workflow/:slug/run","title":"Run Workflow"},{"path":"/dashboard","title":"Dashboard"},{"path":"/dashboard/:section","title":"Dashboard Section"},{"path":"/admin","title":"Workflow Builder"}]}
